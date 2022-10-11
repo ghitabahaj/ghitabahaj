@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ghitabahaj
-- 🌱 I’m currently learning studying....
+- 🌱 I’m currently studying....
 
 <!---
 ghitabahaj/ghitabahaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
