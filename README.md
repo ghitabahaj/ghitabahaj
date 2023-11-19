@@ -27,6 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghitabahaj&show_icons=true&locale=en" alt="ghitabahaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghitabahaj&" alt="ghitabahaj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghitabahaj&" alt="ghitabahaj" /></p>
